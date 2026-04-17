@@ -8,5 +8,6 @@
     "pack_version": "1.0.0",
     "target_suite": "seasons_s1",
     "description": "TrajectoryRL Season 1 (self-learning) pack for the seasons_s1 suite."
-  }
+  },
+  "tool_policy": {}
 }
